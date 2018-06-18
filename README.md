@@ -1,21 +1,21 @@
 # HackerRank-Sql-Solutions
 ## My Solutions
 **Basic Select**
- - Revising the Select Query I
- - Revising the Select Query II
- - Select All
- - Select By ID
- - Japanese Cities' Attributes
- - Japanese Cities' Names
- - Weather Observation Station 1
- - Weather Observation Station 3
- - Weather Observation Station 4
- - Weather Observation Station 6
- - Weather Observation Station 7
- - Weather Observation Station 8
- - Weather Observation Station 9
- - Weather Observation Station 10
- - Weather Observation Station 11
- - Weather Observation Station 12
- - Employee Names
- - Employee Salaries
+ - Revising the Select Query I [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Revising%20the%20Select%20Query%20I)
+ - Revising the Select Query II [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Revising%20the%20Select%20Query%20II)
+ - Select All [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Select%20All)
+ - Select By ID [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Select%20By%20ID)
+ - Japanese Cities' Attributes [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Japanese%20Cities'%20Attributes)
+ - Japanese Cities' Names [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Japanese%20Cities'%20Names)
+ - Weather Observation Station 1 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%201)
+ - Weather Observation Station 3 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%203)
+ - Weather Observation Station 4 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%204)
+ - Weather Observation Station 6 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%206)
+ - Weather Observation Station 7 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%207)
+ - Weather Observation Station 8 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%208)
+ - Weather Observation Station 9 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%209)
+ - Weather Observation Station 10 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%2010)
+ - Weather Observation Station 11 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%2011)
+ - Weather Observation Station 12 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%2012)
+ - Employee Names [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Employee%20Names)
+ - Employee Salaries [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Employee%20Salaries)
