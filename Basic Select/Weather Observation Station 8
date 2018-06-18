@@ -1,0 +1,6 @@
+select distinct CITY from STATION
+where CITY like('a%a') or CITY like('a%e') or CITY like('a%i') or CITY like('a%o') or CITY like('a%u') or
+CITY like('e%a') or CITY like('e%e') or CITY like('e%i') or CITY like('e%0') or CITY like('e%u') or 
+CITY like('i%a') or CITY like('i%e') or CITY like('i%i') or CITY like('i%o') or CITY like('i%u') or 
+CITY like('o%a') or CITY like('o%e') or CITY like('o%i') or CITY like('o%o') or CITY like('o%u') or
+CITY like('u%a') or CITY like('u%e') or CITY like('u%i') or CITY like('u%o') or CITY like('u%u');
