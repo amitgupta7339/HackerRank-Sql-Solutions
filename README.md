@@ -21,3 +21,23 @@
  - Higher Than 75 Marks [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Higher%20Than%2075%20Marks)
  - Employee Names [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Employee%20Names)
  - Employee Salaries [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Employee%20Salaries)
+ 
+ **Aggregation**
+  - Revising Aggregations - The Count Function [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function)
+  - Revising Aggregations - The Sum Function [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function)
+  - Revising Aggregations - Averages [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Revising%20Aggregations%20-%20Averages)
+  - Average Population [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Average%20Population)
+  - Japan Population [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Japan%20Population)
+  - Population Density Difference [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Population%20Density%20Difference)
+  - The Blunder [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/The%20Blunder)
+  - Top Earners [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Top%20Earners)
+  - Weather Observation Station 2 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%202)
+  - Weather Observation Station 13 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2013)
+  - Weather Observation Station 14 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2014)
+  - Weather Observation Station 15 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2015)
+  - Weather Observation Station 16 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2016)
+  - Weather Observation Station 17 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2017)
+  - Weather Observation Station 18 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2018)
+  - Weather Observation Station 19 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2019)
+  - Weather Observation Station 20 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2020)
+
