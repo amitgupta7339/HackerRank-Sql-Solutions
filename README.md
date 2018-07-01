@@ -10,6 +10,7 @@
  - Weather Observation Station 1 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%201)
  - Weather Observation Station 3 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%203)
  - Weather Observation Station 4 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%204)
+ - Weather Observation Station 5 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%205)
  - Weather Observation Station 6 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%206)
  - Weather Observation Station 7 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%207)
  - Weather Observation Station 8 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%208)
