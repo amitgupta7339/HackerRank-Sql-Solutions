@@ -18,5 +18,6 @@
  - Weather Observation Station 10 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%2010)
  - Weather Observation Station 11 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%2011)
  - Weather Observation Station 12 [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Weather%20Observation%20Station%2012)
+ - Higher Than 75 Marks [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Higher%20Than%2075%20Marks)
  - Employee Names [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Employee%20Names)
  - Employee Salaries [Solution](https://github.com/amitgupta7339/HackerRank-Sql-Solutions/blob/master/Basic%20Select/Employee%20Salaries)
